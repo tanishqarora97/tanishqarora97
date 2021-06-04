@@ -79,7 +79,7 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishqarora97&show_icons=true&locale=en&layout=compact" alt="tanishqarora97" /></p><br>
-
+<p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tanishqarora97&count_private=true&hide=prs,issues" alt="tanishqarora97" /></p><br>
-
+<p></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqarora97" alt="tanishqarora97" /></p>
