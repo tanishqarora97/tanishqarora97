@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js & SpringBoot**
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-dzentra.web.app/](https://portfolio-dzentra.web.app/)
+- 👨‍💻 Some of my projects are available at [https://www.dzentra.com](https://www.dzentra.com)
 
 - 📝 I regularly read articles on tech
 
