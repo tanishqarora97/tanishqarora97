@@ -82,4 +82,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishqarora97&count_private=true&hide=prs,issues" alt="tanishqarora97" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqarora97" alt="tanishqarora97" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanishqarora97&theme=dark&hide_border=true)](https://git.io/streak-stats)
