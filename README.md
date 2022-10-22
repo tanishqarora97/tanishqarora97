@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Freelance Project**
 
-- 🌱 I’m currently learning **React.js & SpringBoot**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 Some of my projects are available at [https://www.dzentra.com](https://www.dzentra.com)
 
